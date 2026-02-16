@@ -1,6 +1,5 @@
 # Starbucks-Customer-Segmentation
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue)
-![Scikit-Learn](https://img.shields.io/badge/Library-Scikit--Learn-orange)
 ![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## 📌 Project Overview
